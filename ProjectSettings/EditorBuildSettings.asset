@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Play.unity
-    guid: c51c5e7e1ad56d4419a8d061313ace36
-  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
@@ -17,6 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Mini.unity
     guid: ee5784dcceaf88648b4234b82a1d2a48
+  - enabled: 1
+    path: Assets/Play.unity
+    guid: c51c5e7e1ad56d4419a8d061313ace36
   - enabled: 1
     path: Assets/Scenes/Areum.unity
     guid: f5d5f5c14ba367c43b8e37ada63c3c93
@@ -30,14 +30,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Kaimaru.unity
     guid: a8d75ebea1523e44f94d2f3358079409
   - enabled: 1
-    path: Assets/Scenes/GBB.unity
-    guid: 5fa5c5c1e9dabf8488e577b22148fc38
-  - enabled: 1
     path: Assets/Loading2.unity
     guid: fc027f113cc4c824b978cc01efa1671b
-  - enabled: 1
-    path: Assets/Scenes/GameOver.unity
-    guid: 50b8bf65cdeed0141ab69823ba57aa0f
   - enabled: 1
     path: Assets/Scenes/N1.unity
     guid: 92c5d7f0c39795d42ae5d2c5e43352c2
