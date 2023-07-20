@@ -1,5 +1,6 @@
 # 카이 Starve
 
+
 ## 개요
 카이 Starve는 "Don't Starve"와 카이스트 몰입캠프에서의 경험에 영감을 받아 만들어진 2D 생존 게임입니다. 이 게임에서 플레이어는 카이스트에서 30일 동안 생존해야 합니다. 플레이어의 관리해야할 주요 스탯은 건강, 개발 경험, 스트레스, 인간관계, 돈 총 5가지입니다. 회식과 같은 이벤트를 통해 스탯들에 변화가 생기며, 하나의 스탯이라도 0이 되면 캐릭터는 게임에서 사망합니다. 플레이어의 선택과 전략에 따라 생존 여부가 결정됩니다.
 
@@ -28,16 +29,20 @@
 키보드 화살표 키를 사용하여 캐릭터를 이동시킵니다. 게임 내의 다양한 메뉴와 선택은 마우스를 사용하여 진행할 수 있습니다.
 
 ## Screenshots
-![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/da7d1cd3-5bf3-4f01-9bc4-3bb78efe9bb9)
-![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/8d7b9929-7afe-412c-b10d-3927b809796b)
-![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/bfd3bdfb-279b-472e-8918-c00cd27b89f9)
-![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/abb48383-7a31-4760-8754-2269b53d29c9)
-![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/772ebcec-aff0-4e20-802e-029f29876560)
-![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/1d34457a-df39-4461-b211-b78c61b97184)
-![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/3cc69cd7-b1f5-4bb5-8717-3efeb1f48fea)
-![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/b77cdb26-bbf7-44d9-a490-2e518644d855)
-![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/7ef4bc30-c660-438e-b11f-5190518c244a)
+<img src = "https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/da7d1cd3-5bf3-4f01-9bc4-3bb78efe9bb9" width="30%" height = "30%" >
+<img src = "https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/8d7b9929-7afe-412c-b10d-3927b809796b" width="30%" height = "30%" >
+<img src = "https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/bfd3bdfb-279b-472e-8918-c00cd27b89f9" width="30%" height = "30%" >
+<img src = "https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/abb48383-7a31-4760-8754-2269b53d29c9" width="30%" height = "30%" >
+<img src = "https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/772ebcec-aff0-4e20-802e-029f29876560" width="30%" height = "30%" >
+<img src = "https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/1d34457a-df39-4461-b211-b78c61b97184" width="30%" height = "30%" >
+<img src = "https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/3cc69cd7-b1f5-4bb5-8717-3efeb1f48fea" width="30%" height = "30%" >
+<img src = "https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/b77cdb26-bbf7-44d9-a490-2e518644d855" width="30%" height = "30%" >
+<img src = "https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/7ef4bc30-c660-438e-b11f-5190518c244a" width="30%" height = "30%" >
 
+## Collaborators
 
-
+|  Name  |                    GitHub ID                    |          소속           |
+| :----: | :---------------------------------------------: | :---------------------: |
+| 강현서 |    [hyunseo-k](https://github.com/hyunseo-k)    | 성균관대 소프트웨어학과 |
+| 장준하 | [Junha-Jang](https://github.com/Junha-Jang) |    카이스트 전산학부    |
 
