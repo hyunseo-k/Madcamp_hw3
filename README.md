@@ -27,4 +27,17 @@
 ## 조작법
 키보드 화살표 키를 사용하여 캐릭터를 이동시킵니다. 게임 내의 다양한 메뉴와 선택은 마우스를 사용하여 진행할 수 있습니다.
 
+## Screenshots
 ![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/da7d1cd3-5bf3-4f01-9bc4-3bb78efe9bb9)
+![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/8d7b9929-7afe-412c-b10d-3927b809796b)
+![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/bfd3bdfb-279b-472e-8918-c00cd27b89f9)
+![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/abb48383-7a31-4760-8754-2269b53d29c9)
+![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/772ebcec-aff0-4e20-802e-029f29876560)
+![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/1d34457a-df39-4461-b211-b78c61b97184)
+![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/3cc69cd7-b1f5-4bb5-8717-3efeb1f48fea)
+![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/b77cdb26-bbf7-44d9-a490-2e518644d855)
+![image](https://github.com/hyunseo-k/Madcamp_hw3/assets/79782180/7ef4bc30-c660-438e-b11f-5190518c244a)
+
+
+
+
